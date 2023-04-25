@@ -1,0 +1,13 @@
+1.An open source tool is available for free and the code that is visible to everyone,everyone can edit that code and modify it.
+
+2.A paid tool is the set of code that is not visible to everyone,but is visible,can modify and edit those who purchased that tool by paying money.
+
+3.Anaconda is a programming tool used to write python code on work, development, supplying the written code to the clients.
+
+4.Difference between versions in python are some previous versions may take so much time and present version is very fast than the previous version.
+
+5..exe files are executable files in a software and .setup files also same as .exe files but softwares are different.
+
+6.Anaconda navigator is command mode and anaconda prompt is a graphical mode or script mode.
+
+7.
